@@ -1,0 +1,11 @@
+C:\Users\Alvaro\Desktop\softw3\nuevo\SoluciónMaestroDetalles\CapaDatos\bin\Debug\Datos.dll.config
+C:\Users\Alvaro\Desktop\softw3\nuevo\SoluciónMaestroDetalles\CapaDatos\bin\Debug\Datos.dll
+C:\Users\Alvaro\Desktop\softw3\nuevo\SoluciónMaestroDetalles\CapaDatos\bin\Debug\Datos.pdb
+C:\Users\Alvaro\Desktop\softw3\nuevo\SoluciónMaestroDetalles\CapaDatos\obj\Debug\Datos.dll
+C:\Users\Alvaro\Desktop\softw3\nuevo\SoluciónMaestroDetalles\CapaDatos\obj\Debug\Datos.pdb
+C:\Users\Alvaro\Desktop\Soft3\Alvaro\SoluciónMaestroDetalles\CapaDatos\bin\Debug\Datos.dll.config
+C:\Users\Alvaro\Desktop\Soft3\Alvaro\SoluciónMaestroDetalles\CapaDatos\bin\Debug\Datos.dll
+C:\Users\Alvaro\Desktop\Soft3\Alvaro\SoluciónMaestroDetalles\CapaDatos\bin\Debug\Datos.pdb
+C:\Users\Alvaro\Desktop\Soft3\Alvaro\SoluciónMaestroDetalles\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Alvaro\Desktop\Soft3\Alvaro\SoluciónMaestroDetalles\CapaDatos\obj\Debug\Datos.dll
+C:\Users\Alvaro\Desktop\Soft3\Alvaro\SoluciónMaestroDetalles\CapaDatos\obj\Debug\Datos.pdb
