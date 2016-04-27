@@ -1,0 +1,61 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="PaginaMaestra.master.cs" Inherits="CapaPresentacions.PaginaMaestra" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Clinica NUr</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+         <div>
+            <nav> <asp:HyperLink runat="server" NavigateUrl="~/ListaConsultas.aspx"></asp:HyperLink></nav>
+            <nav> <asp:HyperLink runat="server" NavigateUrl="~/ListaCitas.aspx"></asp:HyperLink></nav>
+
+            <nav class="navbar navbar-default">
+                <div class="container-fluid">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        
+                        <a class="navbar-brand" href="#">Web COntrol Clinico</a>
+                    </div>
+
+                    <div id="navbar" class="navbar-collapse collapse">
+                        <ul class="nav navbar-nav">
+                            <li><a href="ListaConsultas.aspx">Lista de Consulta</a></li>
+                            <li><a href="ListaCitas.aspx">Lista de Cita</a></li>
+                            <li><a href="#">Lista de Doctor</a></li>
+                            <li><a href="#">Lista de Paciente</a></li>
+
+                        </ul>
+                    </div>
+                    
+                    <!--/.nav-collapse -->
+                </div>
+                <!--/.container-fluid -->
+            </nav>
+<%--            <asp:ContentPlaceHolder ID="conten" runat="server"></asp:ContentPlaceHolder>
+--%>
+
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"> </asp:ContentPlaceHolder>
+    </div>
+</form>
+
+         <footer class="footer">
+             <label>datetim</label>
+        <div class="container">
+            <p class="text-muted text-center">Examen 1</p>
+        </div>
+    </footer>
+
+    </form>
+</body>
+</html>

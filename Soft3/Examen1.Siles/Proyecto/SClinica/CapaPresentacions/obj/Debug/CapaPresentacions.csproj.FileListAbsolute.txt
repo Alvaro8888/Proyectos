@@ -1,0 +1,10 @@
+C:\Users\Alvaro\Desktop\Proyecto\SClinica\CapaPresentacions\bin\CapaPresentacions.dll.config
+C:\Users\Alvaro\Desktop\Proyecto\SClinica\CapaPresentacions\bin\CapaPresentacions.dll
+C:\Users\Alvaro\Desktop\Proyecto\SClinica\CapaPresentacions\bin\CapaPresentacions.pdb
+C:\Users\Alvaro\Desktop\Proyecto\SClinica\CapaPresentacions\bin\CapaDatos.dll
+C:\Users\Alvaro\Desktop\Proyecto\SClinica\CapaPresentacions\bin\CapaNegocios.dll
+C:\Users\Alvaro\Desktop\Proyecto\SClinica\CapaPresentacions\bin\CapaDatos.pdb
+C:\Users\Alvaro\Desktop\Proyecto\SClinica\CapaPresentacions\bin\CapaNegocios.pdb
+C:\Users\Alvaro\Desktop\Proyecto\SClinica\CapaPresentacions\obj\Debug\CapaPresentacions.csprojResolveAssemblyReference.cache
+C:\Users\Alvaro\Desktop\Proyecto\SClinica\CapaPresentacions\obj\Debug\CapaPresentacions.dll
+C:\Users\Alvaro\Desktop\Proyecto\SClinica\CapaPresentacions\obj\Debug\CapaPresentacions.pdb

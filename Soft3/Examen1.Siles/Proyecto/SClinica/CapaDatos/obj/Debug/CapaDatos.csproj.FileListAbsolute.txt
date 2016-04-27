@@ -1,0 +1,6 @@
+C:\Users\Alvaro\Desktop\Proyecto\SClinica\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\Alvaro\Desktop\Proyecto\SClinica\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Alvaro\Desktop\Proyecto\SClinica\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Alvaro\Desktop\Proyecto\SClinica\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Alvaro\Desktop\Proyecto\SClinica\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Alvaro\Desktop\Proyecto\SClinica\CapaDatos\obj\Debug\CapaDatos.pdb
